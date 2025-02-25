@@ -13,7 +13,7 @@ pemrograman dan memudahkan eksekusi program secara langsung melalui built-in
 terminal. Program ini juga memiliki fitur opsional untuk menampilkan versi Java yang 
 digunakan pengguna.
 
-![Terminal Preview](/img/Screenshot 2025-02-25 225734.png)
+![Terminal Preview](/assets/img/Screenshot%202025-02-25%20225734.png)
 
 Hasil diatas dijalankan lewat terminal VSCode dengan menambahkan kode ANSI pada kode program seperti fakta unik, versi angka, bahkan pesan selamat datang.
 
