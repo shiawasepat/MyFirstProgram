@@ -1,4 +1,4 @@
-## 
+# Laporan Praktikum Assignment 1 - My First Program
 
 Pada laporan ini, saya mengembangkan sebuah program Java sederhana sesuai dengan 
 tugas yang diberikan. Program ini memiliki beberapa fungsi utama seperti:
