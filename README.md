@@ -2,11 +2,9 @@
 
 Pada laporan ini, saya mengembangkan sebuah program Java sederhana sesuai dengan 
 tugas yang diberikan. Program ini memiliki beberapa fungsi utama seperti:
-<li>
-    Menampilkan pesan selamat datang
-    Menerima masukan dari pengguna 
-    Serta memberikan informasi unik tentang Java
-</li>
+<li>Menampilkan pesan selamat datang</li>
+<li>Menerima masukan dari pengguna</li> 
+<li>Serta memberikan informasi unik tentang Java</li>
 
 Saya menggunakan Visual Studio Code (VS Code) sebagai editor untuk efisiensi 
 pemrograman dan memudahkan eksekusi program secara langsung melalui built-in 
